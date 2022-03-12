@@ -1,3 +1,3 @@
 # Final Thoughts
 
-TBD
+I've been asked over the years what I believe has been a silver bullet throughout my career to delivering robust, well architected and maintainable software consistently on time.  I've spent my fair share of time on different platforms, programming languages (strongly and weakly typed), declarative/imperative techniques, but there really has only been one that has worked for all.  It is writing great Unit Tests!
