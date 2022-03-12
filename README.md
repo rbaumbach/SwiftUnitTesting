@@ -13,11 +13,11 @@ While most of these techniques can be used for various platforms, since I'm an i
 1. [What is Unit Testing](/What-Is-Unit-Testing.md)
 2. [Programming to an interface (Protocol Conformance)](/Programming-To-An-Interface.md)
 3. [Mocks](/Mocks.md)
-4. [Dependency Injection (TBD)](/Dependency-Injection.md)
-5. [Patterns to avoid (TBD)](/Patterns-To-Avoid.md)
+4. [Dependency Injection](/Dependency-Injection.md)
+5. [Patterns to avoid](/Patterns-To-Avoid.md)
 6. [Builders (TBD)](/Builders.md)
-7. [Wrappers (TBD)](/Wrappers.md)
-8. [Final Thoughts()](/Final-Thoughts.md)
+7. [Wrappers](/Wrappers.md)
+8. [Final Thoughts](/Final-Thoughts.md)
 
 ## Additional Notes:
 
