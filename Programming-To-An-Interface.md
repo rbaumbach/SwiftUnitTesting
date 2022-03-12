@@ -1,9 +1,9 @@
 # Programming to an interface (Protocol Conformance)
 
-One of the most fundamental techniques that can be leveraged for a successful Unit Testing project is favoring composition over inheritance.
+One of the most fundamental techniques that can be leveraged for a successful Unit Testing project is favoring [composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance).
 
 ```
-[Composition over inheritance (or composite reuse principle)](https://en.wikipedia.org/wiki/Composition_over_inheritance) in object-oriented programming (OOP) is the principle that classes should achieve polymorphic behavior and code reuse by their composition (by containing instances of other classes that implement the desired functionality) rather than inheritance from a base or parent class.[2] This is an often-stated principle of OOP, such as in the influential book Design Patterns (1994).[3]
+Composition over inheritance in object-oriented programming (OOP) is the principle that classes should achieve polymorphic behavior and code reuse by their composition (by containing instances of other classes that implement the desired functionality) rather than inheritance from a base or parent class. This is an often-stated principle of OOP, such as in the influential book Design Patterns (1994).
 ```
 
 In a nutshell, this means that rather than creating complex inheritance hierarchies using various base classes etc., instead create interfaces that concrete types can be programmed to.
